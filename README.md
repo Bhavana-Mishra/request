@@ -492,7 +492,7 @@ and then the proxy server make a TCP connection to `endpoint-server`
 on port `80`, and return a response that looks like:
 
 ```
-HTTP/1.1 200 OK
+HTTPs/1.1 200 OK
 ```
 
 At this point, the connection is left open, and the client is
